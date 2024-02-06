@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    background: #464345;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    /* Adjust the width as needed */
+}
+
+th,
+td {
+    border: 1px solid #6cf848;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: #e69b9b;
+}
+
+/* extra css */
+#yellow{
+    background: rgb(255, 38, 0);
+}
+
+#googleRow{
+    background: rgb(194, 181, 125);
+}
+
+#lightColor{
+    background: #7a1883;   
+}
+
+#siteName{
+    color: rgb(255, 255, 255);
+}
+    
+
+h1,p{
+    color: rgb(2, 255, 255);
+}
